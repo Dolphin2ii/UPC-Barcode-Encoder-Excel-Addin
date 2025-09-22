@@ -1,0 +1,19 @@
+# Backup folder with proprietary content
+Backup/
+backup/
+
+# Archived files
+*.rar
+*.zip
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# macOS system files
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+~*
