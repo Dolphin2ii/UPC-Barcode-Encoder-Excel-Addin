@@ -2,9 +2,10 @@
 Backup/
 backup/
 
-# Archived files
+# Archived files (exclude backups but keep distribution files)
 *.rar
-*.zip
+Backup*.zip
+backup*.zip
 
 # Windows system files
 Thumbs.db
