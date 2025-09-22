@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📖 Documentation (English)
+    url: https://github.com/Dolphin2ii/UPC-Barcode-Encoder-Excel-Addin/blob/main/README.md
+    about: Read the complete documentation in English
+  - name: 📖 Documentation (Français)
+    url: https://github.com/Dolphin2ii/UPC-Barcode-Encoder-Excel-Addin/blob/main/README-FR.md
+    about: Lire la documentation complète en français
+  - name:  Download Latest Release
+    url: https://github.com/Dolphin2ii/UPC-Barcode-Encoder-Excel-Addin/releases/latest
+    about: Download the latest version of the UPC Barcode Encoder
