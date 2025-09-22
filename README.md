@@ -1,6 +1,19 @@
 # UPC Barcode Encoder for Excel
 
+![Release](https://img.shields.io/github/v/release/Dolphin2ii/UPC-Barcode-Encoder-Excel-Addin)
+![Downloads](https://img.shields.io/github/downloads/Dolphin2ii/UPC-Barcode-Encoder-Excel-Addin/total)
+![License](https://img.shields.io/github/license/Dolphin2ii/UPC-Barcode-Encoder-Excel-Addin)
+
 A comprehensive Excel VBA solution for generating UPC-A and EAN-13 barcodes directly in Excel without external dependencies or paid software.
+
+## 🚀 Quick Download
+
+📁 **[Download Latest Release v1.0](https://github.com/Dolphin2ii/UPC-Barcode-Encoder-Excel-Addin/releases/latest)**
+
+Choose your preferred version:
+- **UPC Excel Addin.zip** - Complete package with all languages
+- **UPC Excel Addin - ENG.zip** - English version only  
+- **UPC Excel Addin - FR.zip** - French version only
 
 ## 🎯 Project Overview
 
