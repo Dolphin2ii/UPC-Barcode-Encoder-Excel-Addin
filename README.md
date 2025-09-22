@@ -200,8 +200,14 @@ This solution was developed to replace paid barcode software in business environ
 
 ## 📈 Version History
 
-- **v2.0** (Current) - Added EAN-13 support, auto-detection, improved compatibility
-- **v1.0** - Initial UPC-A support with Code39 fonts
+**v1.0** (Current) - Professional UPC-A and EAN-13 barcode encoder
+- ✅ **UPC-A encoding** (11-12 digits with automatic check digit calculation)
+- ✅ **EAN-13 encoding** (13 digits with validation and check digit)
+- ✅ **Auto-detection** based on code length (smart format selection)
+- ✅ **Code39 format** for maximum scanner compatibility
+- ✅ **LibreBarcode39 fonts** included (SIL Open Font License)
+- ✅ **Bilingual documentation** (English + French)
+- ✅ **MIT License** for open-source distribution
 
 ## 🛡️ Security & Compliance
 

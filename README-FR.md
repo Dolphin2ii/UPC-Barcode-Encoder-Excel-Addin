@@ -214,8 +214,14 @@ Cette solution a été développée pour remplacer les logiciels de codes à bar
 
 ## 📈 Historique des versions
 
-- **v2.0** (Actuelle) - Ajout du support EAN-13, détection automatique, compatibilité améliorée
-- **v1.0** - Support initial UPC-A avec polices Code39
+**v1.0** (Actuelle) - Encodeur professionnel de codes à barres UPC-A et EAN-13
+- ✅ **Encodage UPC-A** (11-12 chiffres avec calcul automatique du chiffre de contrôle)
+- ✅ **Encodage EAN-13** (13 chiffres avec validation et chiffre de contrôle)
+- ✅ **Détection automatique** basée sur la longueur du code (sélection intelligente du format)
+- ✅ **Format Code39** pour compatibilité maximale avec les scanners
+- ✅ **Polices LibreBarcode39** incluses (licence SIL Open Font)
+- ✅ **Documentation bilingue** (Anglais + Français)
+- ✅ **Licence MIT** pour distribution open-source
 
 ## 🛡️ Sécurité et conformité
 
