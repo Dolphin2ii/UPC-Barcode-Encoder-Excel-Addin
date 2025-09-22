@@ -1,5 +1,7 @@
 # Encodeur de codes à barres UPC pour Excel
 
+**📖 Documentation :** [EN English](README.md) | [FR Français](README-FR.md)
+
 ![Release](https://img.shields.io/github/v/release/Dolphin2ii/UPC-Barcode-Encoder-Excel-Addin)
 ![Downloads](https://img.shields.io/github/downloads/Dolphin2ii/UPC-Barcode-Encoder-Excel-Addin/total)
 ![License](https://img.shields.io/github/license/Dolphin2ii/UPC-Barcode-Encoder-Excel-Addin)
